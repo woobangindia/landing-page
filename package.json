@@ -1,0 +1,1 @@
+{"name":"harbourline-next","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"engines":{"node":">=18.17"},"dependencies":{"mongoose":"^8.5.0","next":"^14.2.15","nodemailer":"^6.9.14","react":"^18.3.1","react-dom":"^18.3.1","zod":"^3.23.8"}}
