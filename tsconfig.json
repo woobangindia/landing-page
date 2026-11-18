@@ -8,11 +8,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true
   },
-  "include": [
-    "src/**/*.ts",
-    "public/js/**/*.ts"
-  ],
-  "exclude": [
-    "dist"
-  ]
+  "include": ["src/**/*.ts", "public/js/**/*.ts"]
+  "include": ["src/**/*.ts", "public/js/**/*.ts"],
+  "exclude": ["dist"]
 }
